@@ -118,7 +118,6 @@ RECAD is a high-performance, multi-tenant School Management System (SMS). It uti
 
 ## 7. Project README (For GitHub)
 
-```markdown
 # 📘 RECAD: Next-Gen School Management System
 
 **RECAD** is a high-performance, multi-tenant SMS designed for the modern educational landscape.
@@ -141,4 +140,3 @@ RECAD is a high-performance, multi-tenant School Management System (SMS). It uti
 1. **Backend:** `composer install`, `php artisan migrate`, `php artisan serve`.
 2. **Frontend:** `pnpm install`, `pnpm dev`.
 3. **Login:** Use any mobile number with OTP `1234` (Dev Mode).
-```
